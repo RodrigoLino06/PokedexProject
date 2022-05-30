@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    font-family: 'Press Start 2P', sans-serif;
+    background-image: url(/src/imgs/BKGD.png);
+    background-position-y: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.pokedex{
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
